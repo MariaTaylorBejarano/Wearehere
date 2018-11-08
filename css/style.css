@@ -1,0 +1,15 @@
+body {
+	padding-top: 50px;
+	color: #fffff;
+	background-color: #42d9f4;
+	font-family: 'Sans-serif';
+	font-weight: bold;
+
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.rocio-button {
+	background-color: red;
+}
