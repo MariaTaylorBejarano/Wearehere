@@ -9,3 +9,8 @@ body {
 .h1{
 	align-items: center;
 }
+
+
+.signup-form {
+	background-color: white;
+}
